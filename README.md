@@ -14,12 +14,6 @@
 
 
 
-### 👾 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=sharkSSS-dev)
-
-
-
 ### 🔥 My GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
