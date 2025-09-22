@@ -16,7 +16,7 @@
 
 ### 👾 Profile Views
 
-![hits](https://countapi.xyz/badge/sharkSSS-dev/visits)
+![Profile Views](https://komarev.com/ghpvc/?username=sharkSSS-dev)
 
 
 
