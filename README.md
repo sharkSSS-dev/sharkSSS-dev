@@ -14,6 +14,12 @@
 
 
 
+### 👾 Profile Views
+
+![hits](https://countapi.xyz/badge/sharkSSS-dev/visits)
+
+
+
 ### 🔥 My GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
