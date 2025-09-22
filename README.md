@@ -9,3 +9,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharkSSS-dev&layout=compact)
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+
+### 👾 Profile Views
+
+![Visitor](https://hits.seojung.xyz/gh/sharkSSS-dev/hits.svg?style=flat)
+
+### 🔥 My GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharkSSS-dev&theme=gruvbox" />
+</a>
